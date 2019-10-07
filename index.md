@@ -319,6 +319,25 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+
+<div id="vm">
+  <h3>Virtual Machine</h3>
+  <ol>
+    <li>
+      Install <a href="https://www.virtualbox.org/">VirtualBox</a>.
+    </li>
+    <li>
+      Download our <a href="{{site.swc_vm}}">VM image</a>.
+      <strong>Warning:</strong> this file is 1.7 GByte, so please
+      download it <em>before</em> coming to your workshop.
+    </li>
+    <li>
+      Load the VM into VirtualBox by selecting "Import Appliance" and
+      loading the <code>.ova</code> file.
+    </li>
+  </ol>
+</div>
+
 <!--
 
 AAAAAAA
