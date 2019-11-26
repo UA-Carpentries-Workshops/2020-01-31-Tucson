@@ -231,13 +231,25 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-{% if page.carpentry == "swc" %}
-{% include sc/schedule.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% endif %}
+Day 1 morning
+- [Introduction](https://datacarpentry.org/image-processing/01-introduction/)
+- [Image Basics](https://datacarpentry.org/image-processing/02-image-basics/)
+- [Image Representation in Skimage](https://datacarpentry.org/image-processing/03-skimage-images/)
+
+Day 1 afternoon
+- [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/)
+- [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/)
+
+Day 2 morning
+- [Blurring Images](https://datacarpentry.org/image-processing/06-blurring/)
+- [Thresholding](https://datacarpentry.org/image-processing/07-thresholding/)
+
+Day 2 afternoon
+- [Edge Detection](https://datacarpentry.org/image-processing/08-edge-detection/)
+- [Connected Component Analysis](https://datacarpentry.org/image-processing/09-connected-components/)
+- [Challenges](https://datacarpentry.org/image-processing/10-challenges/)
+
+<hr/>
 
 {% comment %}
 Collaborative Notes
