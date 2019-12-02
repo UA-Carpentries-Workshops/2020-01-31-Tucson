@@ -26,7 +26,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <ul>
 </p>
 
-If you’re unsure whether you have enough experience to participate in this workshop, please read over this detailed list, which gives all of the functions, operators, and other concepts you will need to be familiar with.
+<p>If you’re unsure whether you have enough experience to participate in this workshop, please read over <a href="https://datacarpentry.org/prereqs/" target='blank'>this detailed list</a>, which gives all of the functions, operators, and other concepts you will need to be familiar with.
+</p>
 
 <p><h4><center><strong>Apply for the workshop at <a href="http://bit.ly/2Pj8EcP" target='blank'>http://bit.ly/2Pj8EcP</a>.</strong></center></h4></p>
 
