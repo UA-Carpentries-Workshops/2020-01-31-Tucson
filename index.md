@@ -239,6 +239,7 @@ Day 2 afternoon
 
 <hr/>
 
+<!--
 SETUP
 
 Delete irrelevant sections from the setup instructions.  Each
@@ -249,6 +250,7 @@ This is the other place where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
+-->
 
 <h2 id="setup">Setup</h2>
 
