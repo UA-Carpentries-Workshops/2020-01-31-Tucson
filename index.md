@@ -29,23 +29,7 @@ see the changes take effect locally.
 </div>
 {% endif %}
 
-{% comment %}
-EVENTBRITE
 
-This block includes the Eventbrite registration widget if
-'eventbrite' has been set in the header.  You can delete it if you
-are not using Eventbrite, or leave it in, since it will not be
-displayed if the 'eventbrite' field in the header is not set.
-{% endcomment %}
-{% if page.eventbrite %}
-<iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
-{% endif %}
 
 
 <h2 id="general">General Information</h2>
@@ -102,6 +86,7 @@ DATE
 
 This block displays the date and links to Google Calendar.
 {% endcomment %}
+
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
@@ -115,12 +100,13 @@ SPECIAL REQUIREMENTS
 
 Modify the block below if there are any special requirements.
 {% endcomment %}
+
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
-{% comment%}
+{% comment %}
 CODE OF CONDUCT
 {% endcomment %}
 <p id="code-of-conduct">
@@ -206,7 +192,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
 {% endcomment %}
 
-<!--
+
 <h2 id="schedule">Schedule</h2>
 
 Day 1 morning
@@ -228,7 +214,6 @@ Day 2 afternoon
 - [Challenges](https://datacarpentry.org/image-processing/10-challenges/)
 
 <hr/>
--->
 
 
 {% if page.collaborative_notes %}
@@ -238,19 +223,6 @@ Day 2 afternoon
 {% endif %}
 
 <hr/>
-
-<!--
-SETUP
-
-Delete irrelevant sections from the setup instructions.  Each
-section is inside a 'div' without any classes to make the beginning
-and end easier to find.
-
-This is the other place where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
-{% endcomment %}
--->
 
 <h2 id="setup">Setup</h2>
 
