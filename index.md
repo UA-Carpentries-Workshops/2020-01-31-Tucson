@@ -18,6 +18,15 @@ collaborative_notes: http://pad.software-carpentry.org/2020-02-22-Tucson # optio
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<h2>Pre-Requisites</h2>
+<p>This lesson assumes you have a working knowledge of Python and some previous exposure to the Bash shell (a.k.a. Unix, Command Line). These requirements can be fulfilled by:
+a) completing a Software Carpentry Python workshop or
+b) completing a Data Carpentry Ecology workshop (with Python) and a Data Carpentry Genomics workshop or
+c) independent exposure to both Python and the Bash shell.
+</p>
+
+If you’re unsure whether you have enough experience to participate in this workshop, please read over this detailed list, which gives all of the functions, operators, and other concepts you will need to be familiar with.
+
 <p><h4><center><strong>Apply for the workshop at <a href="http://bit.ly/2Pj8EcP" target='blank'>http://bit.ly/2Pj8EcP</a>.</strong></center></h4></p>
 
 
