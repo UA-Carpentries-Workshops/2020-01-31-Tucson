@@ -11,7 +11,7 @@ humandate: "Feb 22-23, 2020"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-02-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["tbd"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Uwe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["tbd"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hilgert@bio5.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.software-carpentry.org/2020-02-22-Tucson # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -24,7 +24,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <li>completing a Data Carpentry Ecology workshop (with Python) and a Data Carpentry Genomics workshop; or</li>
 <li>independent exposure to both Python and the Bash shell.</li></ul></p>
 
-<p>If you’re unsure whether you have enough experience to participate in this workshop, please read over <a href="https://datacarpentry.org/prereqs/" target='blank'>this detailed list</a>, which gives all of the functions, operators, and other concepts you will need to be familiar with.
+<p>If you’re unsure whether you have enough experience to participate in this workshop, please read over <a href="https://datacarpentry.org/image-processing/prereqs/" target='blank'>this detailed list</a>, which gives all of the functions, operators, and other concepts you will need to be familiar with.
 </p>
 
 <p><h4><center><strong>Apply for the workshop at <a href="http://bit.ly/2Pj8EcP" target='blank'>http://bit.ly/2Pj8EcP</a>.</strong></center></h4></p>
