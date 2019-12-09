@@ -12,7 +12,7 @@ humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2020-02-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["tbd"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["tbd"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["uwe"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hilgert@bio5.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.software-carpentry.org/2020-02-22-Tucson # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -20,7 +20,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2>Workshop Description</h2>
 <p>
-The <a href="">BIO5 Institute</a>, in partnership with <a href="https://cyverse.org/">CyVerse</a>, the <a href="https://datascience.arizona.edu/">D7 Data Science Institute</a> and the <a href="https://new.library.arizona.edu/">UArizona Libraries</a> is hosting a Data Carpentry workshop in image processing. This workshop will teach core computing and analysis skills to help researchers be more productive and effective.<p>
+The <a href="https://bio5.org/">BIO5 Institute</a>, in partnership with <a href="https://cyverse.org/">CyVerse</a>, the <a href="https://datascience.arizona.edu/">D7 Data Science Institute</a> and the <a href="https://new.library.arizona.edu/">UArizona Libraries</a> is hosting a Data Carpentry workshop in image processing. This workshop will teach core computing and analysis skills to help researchers be more productive and effective.<p>
 <p>
 Alternating short tutorials with hands-on practical exercises participants will learn to:
 <ul>
