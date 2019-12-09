@@ -11,15 +11,30 @@ humandate: "Feb 22-23, 2020"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-02-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Uwe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["tbd"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["tbd"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hilgert@bio5.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.software-carpentry.org/2020-02-22-Tucson # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<h2>Workshop Description</h2>
+<p>
+The BIO5 Institute, in partnership with CyVerse, the D7 Data Science Institute and the UArizona Libraries is hosting a Data Carpentry workshop in image processing. This workshop will teach core computing and analysis skills to help researchers be more productive and effective.<p>
+<p>
+Alternating short tutorials with hands-on practical exercises participants will learn to:
+<ul>
+<li>Recognize scientific questions that could be solved with image processing / computer vision.</li>
+<li>Recognize morphometric problems (those dealing with the number, size, or shape of the objects in an image).</li>
+<li>Recognize colorimetric problems (those dealing with the analysis of the color or the objects in an image).</li>
+</ul>
+</p>
+<p>
+For more detail on workshop objectives see <a href="https://datacarpentry.org/image-processing/01-introduction/">this link</a>.
+</p>
+
 <h2>Pre-Requisites</h2>
-<p>This lesson assumes you have a working knowledge of Python and some previous exposure to the Bash shell (a.k.a. Unix, Command Line). These requirements can be fulfilled by:
+<p>The workshop assumes you have a working knowledge of Python and some previous exposure to the Bash shell (a.k.a. Unix, Command Line). These requirements can be fulfilled by:
 <ul><li>completing a Software Carpentry Python workshop; or</li>
 <li>completing a Data Carpentry Ecology workshop (with Python) and a Data Carpentry Genomics workshop; or</li>
 <li>independent exposure to both Python and the Bash shell.</li></ul></p>
