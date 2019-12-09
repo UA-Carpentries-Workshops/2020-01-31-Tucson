@@ -20,7 +20,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2>Workshop Description</h2>
 <p>
-The BIO5 Institute, in partnership with CyVerse, the D7 Data Science Institute and the UArizona Libraries is hosting a Data Carpentry workshop in image processing. This workshop will teach core computing and analysis skills to help researchers be more productive and effective.<p>
+The <a href="">BIO5 Institute</a>, in partnership with <a href="https://cyverse.org/">CyVerse</a>, the <a href="https://datascience.arizona.edu/">D7 Data Science Institute</a> and the <a href="https://new.library.arizona.edu/">UArizona Libraries</a> is hosting a Data Carpentry workshop in image processing. This workshop will teach core computing and analysis skills to help researchers be more productive and effective.<p>
 <p>
 Alternating short tutorials with hands-on practical exercises participants will learn to:
 <ul>
