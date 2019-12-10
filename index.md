@@ -220,25 +220,33 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h2 id="schedule">Schedule</h2>
 <p>
 Day 1 morning
-- [Introduction](https://datacarpentry.org/image-processing/01-introduction/)
-- [Image Basics](https://datacarpentry.org/image-processing/02-image-basics/)
-- [Image Representation in Skimage](https://datacarpentry.org/image-processing/03-skimage-images/)
+<ul>
+  <li>[Introduction](https://datacarpentry.org/image-processing/01-introduction/)</li>
+  <li>[Image Basics](https://datacarpentry.org/image-processing/02-image-basics/)</li>
+<li>[Image Representation in Skimage](https://datacarpentry.org/image-processing/03-skimage-images/)</li>
+</ul>
 </p>
 <p>
 Day 1 afternoon
-- [Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/)
-- [Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/)
+<ul>
+    <li>[Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/)</li>
+<li>[Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/)</li>
+</ul>
 </p>
 <p>
 Day 2 morning
-- [Blurring Images](https://datacarpentry.org/image-processing/06-blurring/)
-- [Thresholding](https://datacarpentry.org/image-processing/07-thresholding/)
+<ul>
+<li>[Blurring Images](https://datacarpentry.org/image-processing/06-blurring/)</li>
+<li>[Thresholding](https://datacarpentry.org/image-processing/07-thresholding/)</li>
+</ul>
 </p>
 <p>
 Day 2 afternoon
-- [Edge Detection](https://datacarpentry.org/image-processing/08-edge-detection/)
-- [Connected Component Analysis](https://datacarpentry.org/image-processing/09-connected-components/)
-- [Challenges](https://datacarpentry.org/image-processing/10-challenges/)
+<ul>
+<li>[Edge Detection](https://datacarpentry.org/image-processing/08-edge-detection/)</li>
+<li>[Connected Component Analysis](https://datacarpentry.org/image-processing/09-connected-components/)</li>
+<li>[Challenges](https://datacarpentry.org/image-processing/10-challenges/)</li>
+ </ul>
 </p>
 <hr/>
 
