@@ -34,7 +34,7 @@ For more detail on workshop objectives see <a href="https://datacarpentry.org/im
 </p>
 
 <h2>Pre-Requisites</h2>
-<p>The workshop assumes you have a working knowledge of Python and some previous exposure to the Bash shell (a.k.a. Unix, Command Line). These requirements can be fulfilled by:
+<p>The workshop assumes you have a working-knowledge of Python and some previous exposure to the Bash shell (a.k.a. Unix, Command Line). These requirements can be fulfilled by:
 <ul><li>completing a Software Carpentry Python workshop; or</li>
 <li>completing a Data Carpentry Ecology workshop (with Python) and a Data Carpentry Genomics workshop; or</li>
 <li>independent exposure to both Python and the Bash shell.</li></ul></p>
