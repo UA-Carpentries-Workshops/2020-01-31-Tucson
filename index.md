@@ -221,31 +221,31 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <p>
 Day 1 morning
 <ul>
-  <li>[Introduction](https://datacarpentry.org/image-processing/01-introduction/)</li>
-  <li>[Image Basics](https://datacarpentry.org/image-processing/02-image-basics/)</li>
-<li>[Image Representation in Skimage](https://datacarpentry.org/image-processing/03-skimage-images/)</li>
+  <li><a href="https://datacarpentry.org/image-processing/01-introduction/">Introduction</a></li>
+  <li><a href="https://datacarpentry.org/image-processing/02-image-basics/">Image Basics</a></li>
+<li><a href="https://datacarpentry.org/image-processing/03-skimage-images/">Image Representation in Skimage</a></li>
 </ul>
 </p>
 <p>
 Day 1 afternoon
 <ul>
-    <li>[Drawing and Bitwise Operations](https://datacarpentry.org/image-processing/04-drawing/)</li>
-<li>[Creating Histograms](https://datacarpentry.org/image-processing/05-creating-histograms/)</li>
+    <li><a href="https://datacarpentry.org/image-processing/04-drawing/">Drawing and Bitwise Operations</a></li>
+    <li><a href="https://datacarpentry.org/image-processing/05-creating-histograms/">Creating Histograms</a></li>
 </ul>
 </p>
 <p>
 Day 2 morning
 <ul>
-<li>[Blurring Images](https://datacarpentry.org/image-processing/06-blurring/)</li>
-<li>[Thresholding](https://datacarpentry.org/image-processing/07-thresholding/)</li>
+  <li><a href="https://datacarpentry.org/image-processing/06-blurring/">Blurring Images</a></li>
+  <li><a href="https://datacarpentry.org/image-processing/07-thresholding/">Thresholding</a></li>
 </ul>
 </p>
 <p>
 Day 2 afternoon
 <ul>
-<li>[Edge Detection](https://datacarpentry.org/image-processing/08-edge-detection/)</li>
-<li>[Connected Component Analysis](https://datacarpentry.org/image-processing/09-connected-components/)</li>
-<li>[Challenges](https://datacarpentry.org/image-processing/10-challenges/)</li>
+  <li><a href="https://datacarpentry.org/image-processing/08-edge-detection/">Edge Detection</a></li>
+  <li><a href="https://datacarpentry.org/image-processing/09-connected-components/">Connected Component Analysis</a></li>
+  <li><a href="https://datacarpentry.org/image-processing/10-challenges/">Challenges</a></li>
  </ul>
 </p>
 <hr/>
