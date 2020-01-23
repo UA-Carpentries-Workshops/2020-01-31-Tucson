@@ -260,7 +260,7 @@ Day 2 afternoon
 <h2 id="setup">Setup</h2>
 
 <p>
-For installation instructions, please see the workshops [Setup page](https://datacarpentry.org/image-processing/setup/).
+For installation instructions, please see the workshop's <a href="https://datacarpentry.org/image-processing/setup/">Setup page</a>.
 </p>
 
 <p>
