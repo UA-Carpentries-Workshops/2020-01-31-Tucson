@@ -247,7 +247,7 @@ Day 2 afternoon
  </ul>
 </p>
 
-<p></a href="http://bit.ly/37asaPD">Click for a list and map of nearby eateries.</a></p>
+<p><a href="http://bit.ly/37asaPD">Click for a list and map of nearby eateries.</a></p>
 
 <p>Schedule subject to change if necessary.</p>
 <hr/>
