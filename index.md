@@ -97,7 +97,7 @@ address.
 {% if page.latlng %}
 <p id="where">
   <strong>Where:
-  {{page.address}}.</strong>
+  {{page.address}}!</strong>
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
