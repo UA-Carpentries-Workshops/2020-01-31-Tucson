@@ -255,7 +255,7 @@ Day 2 afternoon
 
 {% if page.collaborative_notes %}
 <h2 id="collaborative_notes">Etherpad</h2> 
-  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <strong><a href="{{page.collaborative_notes}}">collaborative document</a></strong> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
 
