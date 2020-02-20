@@ -275,7 +275,7 @@ For installation instructions, please see the workshop's <a href="https://dataca
 
 <p>
   <h2 id="setup">Slack</h2>
-  Workshop Slack Channel at <a href="uaz-carpentries.slack.com">UAZ-Carpentries.slack.com</a> -> DC-2020-02-22.
+  Workshop Slack Channel: UAZ-Carpentries.slack.com -> DC-2020-02-22.
   <!--
 https://join.slack.com/t/uaz-carpentries/shared_invite/enQtOTYyMDIwMjQ3MzMzLTU4YTc3MmQ3NWQ4ZWM0OGFjNmZkNmEyYTlmOWFjODM3MjcwNWJjMTM2YTMyYWY4NWE2ZDU2ZThiYWU1MGVhYjA
 -->
