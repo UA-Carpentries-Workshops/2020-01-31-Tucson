@@ -273,4 +273,12 @@ For installation instructions, please see the workshop's <a href="https://dataca
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p>
+  <h2 id="setup">Slack</h2>
+  Workshop Slack Channel at <a href="uaz-carpentries.slack.com">uaz-carpentries.slack.com</a> DC-2020-02-22.
+  <!--
+https://join.slack.com/t/uaz-carpentries/shared_invite/enQtOTYyMDIwMjQ3MzMzLTU4YTc3MmQ3NWQ4ZWM0OGFjNmZkNmEyYTlmOWFjODM3MjcwNWJjMTM2YTMyYWY4NWE2ZDU2ZThiYWU1MGVhYjA
+-->
+</p>
+
 
