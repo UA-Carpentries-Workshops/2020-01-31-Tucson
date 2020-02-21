@@ -12,7 +12,7 @@ humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2020-02-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Trisha Adamus", "Mark Meysenburg"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Amirhossein Azami", "Ryan Carlson", "Courtney Comrie", "Gabriela De La Cruz Sanchez", "Chris Klimowski", "Jina Lee", "Shuailong Li", "Chuan Luo", "Artin	majdi", "Maliaca Oxnam", "Travis Struck"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Zuzana Adams", "Amirhossein Azami", "Ryan Carlson", "Courtney Comrie", "Gabriela De La Cruz Sanchez", "Chris Klimowski", "Shuailong Li", "Chuan Luo", "Artin	Majdi", "Maliaca Oxnam", "Travis Struck"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hilgert@bio5.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.software-carpentry.org/2020-02-22-Tucson # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -277,12 +277,13 @@ For installation instructions, please see the workshop's <a href="https://dataca
   <h2>Google Doc</h2>
   Workshop Google Doc: <strong><a href="https://docs.google.com/document/d/11C0AzeKDzc_eqil23lRWH9118vix8VB7O4sYgAvQZjg/edit?usp=sharing">http://bit.ly/2PadWbe</a></strong>
 </p>
-
+<!--
 <p>
   <h2>Slack</h2>
   Workshop Slack Channel: <a href="https://UAZ-Carpentries.slack.com">UAZ-Carpentries.slack.com</a> -> DC-2020-02-22.
   <!--
 https://join.slack.com/t/uaz-carpentries/shared_invite/enQtOTYyMDIwMjQ3MzMzLTU4YTc3MmQ3NWQ4ZWM0OGFjNmZkNmEyYTlmOWFjODM3MjcwNWJjMTM2YTMyYWY4NWE2ZDU2ZThiYWU1MGVhYjA
+-->
 -->
 </p>
 
